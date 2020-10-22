@@ -1,2 +1,4 @@
 change1 - change1 in RemoteFile
 change2 - change2 in RemoteFile
+change3 - change3 in RemoteFile
+change4 - change4 in Remotefile
